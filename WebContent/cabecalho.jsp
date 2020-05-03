@@ -13,7 +13,7 @@
 	
 	<!--  <img src="imagens/caelum.png" /> -->
 	
-	<img src="<c:url value="/imagens/caelum.png"/>"/>
+	<img src="<c:url value="/imagens/caelum.png" />"/>
 	
 	<h2>Agenda de contatos - Projeto de Estudo</h2>
 	<hr />
